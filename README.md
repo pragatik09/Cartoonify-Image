@@ -9,3 +9,7 @@ The project “Image Cartoonifier” is implemented using Python and OpenCV. Pyt
 ## Python modules used
 1. CV2: Imported to use OpenCV for image processing
 2. easygui: Imported to open a file box. It allows users to select any file from the system.
+3. Numpy: Images are stored and processed as numbers. These are taken as arrays. NumPy is used to deal with arrays.
+4. Imageio: Used to read the file which is chosen by file box using a path.
+5. Matplotlib: This library is used for visualization and plotting. Thus, it is imported to form the plot of images.
+6. OS: Used for OS interaction. Here, it is used to read the path of the uploaded image and save the cartoon image to that path.
