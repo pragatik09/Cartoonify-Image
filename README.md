@@ -1,1 +1,2 @@
-# Cartoonify-Image
+# Image Cartoonifier
+
